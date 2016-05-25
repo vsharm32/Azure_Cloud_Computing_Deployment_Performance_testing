@@ -3,10 +3,6 @@ Deployment of Kunagi application on Microsoft Azure, performance testing using A
 
 Here are the details of project requirements-:
 
-CS441 Engineering Distributed Objects For Cloud
-Computing Course Project
-Total: 35% of your final grade
-September 16, 2015
 As part of taking CS441, you will work on a course project that allows
 you to get good hands-on experience with deploying software applications
 on cloud computing platforms. In this project, we focus on client-server
